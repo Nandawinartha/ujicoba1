@@ -8,7 +8,7 @@ images:
   - "images/showcase/showcase-1.png"
 
 # meta description
-description : "this is meta description"
+description : "this is meta description for all"
 
 # product Price
 price: "30.00"
