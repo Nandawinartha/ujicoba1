@@ -2,7 +2,7 @@
 title: "OnePlus Watch"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/showcase-7.png"
+  - "images/showcase/showcase-7.1.png"
   - "images/showcase/showcase-5.png"
   - "images/showcase/showcase-3.png"
   - "images/showcase/showcase-4.png"
