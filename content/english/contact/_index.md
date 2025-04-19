@@ -13,7 +13,7 @@ office:
 opennig_hour:
   title : "Opening Hours"
   day_time:
-    - "Monday: 9:00 – 19:00"
+    - "Monday: 9:00 – 12.00"
     - "Tuesday: 9:00 – 19:00"
     - "Wednesday: 9:00 – 19:00"
     - "Thursday: 9:00 – 19:00"
